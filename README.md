@@ -1,6 +1,6 @@
 Next Js learning Project
 
-This is a [Next.js] 
+This is a [Next.js] Project created by 
 [`create-next-app`]
 
 ## Getting Started
