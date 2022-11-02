@@ -1,4 +1,4 @@
-Next Js learning Project
+Next Js learning Project Nov-2022
 
 This is a [Next.js] Project created by 
 [`create-next-app`]
